@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+# VS Code settings
+.vscode/
+# Virtual environment
+agent_env/
+# Python bytecode
+**/__pycache__/
+# Environment variables
+.env
+# Directory containing the test/draft files created during the development of the project
+travel_assistant_scratchpad/
+# Exclude flight database which will be built from scratch
+flight_assistant/data/db/flight_database.db
+# Open ai API key
+openai_api_key.txt
+
+
+
+
+
+
