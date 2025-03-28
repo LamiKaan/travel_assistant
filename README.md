@@ -28,7 +28,7 @@
    ```bash
    cd flight_assistant/data
    ```
-7. Run the "create_mock_flight_data" file to create the database for the mock flight data :
+7. Run the "create_mock_flight_data" file to create the database for the mock flight data. This may take a couple of minutes:
    ```bash
    python create_mock_flight_data.py
    ```
