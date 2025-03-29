@@ -14,7 +14,8 @@ travel_assistant_scratchpad/
 flight_assistant/data/db/flight_database.db
 # Open ai API key
 openai_api_key.txt
-
+# Documentation in pages format
+documentation/technical_doc.pages
 
 
 
